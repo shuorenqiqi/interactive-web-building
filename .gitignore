@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# 脚手架运行产物（测试时生成，不入库）
+_run.js
+_geom.json
+_snapshot*.png
+*.tmp
